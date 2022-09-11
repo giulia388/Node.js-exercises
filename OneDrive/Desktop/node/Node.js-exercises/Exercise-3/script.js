@@ -1,3 +1,3 @@
-const outputMessage = require ('./output-message.js');
+const outputMessage = require('./output-message.js');
 
 outputMessage('Ciao mondo!!!');

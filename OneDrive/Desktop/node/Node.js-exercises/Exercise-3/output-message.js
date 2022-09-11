@@ -1,4 +1,4 @@
-function outputMessage(message){
+function outputMessage(message) {
     console.log(`The message is: ${message}`)
 }
 
